@@ -1,14 +1,68 @@
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TfMarra5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TfMarra5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TfMarra5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TfMarra5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Thomas F. Araújo</h1>
+
+<h3 align="center">
+Computer Systems Student at RTU | AI Engineering Bootcamp at Accenture
+</h3>
+
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, and Software Development.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TfMarra5&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🎓 Studying **Computer Systems** at **Riga Technical University (RTU)**.
+- 🚀 Participating in the **AI Engineering Bootcamp at Accenture**.
+- 🔭 Currently working on **AI Engineering and Machine Learning projects**.
+- 🌱 Currently learning **Neural Networks, Deep Learning, NLP, and Python**.
+- 👯 Interested in collaborating on **open-source AI and software development projects**.
+- 💬 Ask me about **Python, C, Machine Learning, and AI**.
+- 📍 Based in **Riga, Latvia**.
+
+### 🚀 Featured Projects
+
+- 🤖 [Individual AI Project](https://github.com/TfMarra5/Individual_Project_AI) — Exploring AI concepts and developing a practical application.
+- 💻 [Programming Languages C — Labs](https://github.com/TfMarra5/Programming_Languages_C_2026_Fall_Labs) — C programming exercises covering systems programming and core concepts.
+
+Explore more of my work on my [GitHub repositories](https://github.com/TfMarra5?tab=repositories).
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TfMarra5&show_icons=true&theme=github_dark" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TfMarra5&layout=compact&theme=github_dark" alt="Most Used Languages"/>
+</p>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/thomasaraujo">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.behance.net/othomasfernandes">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/tfmarra5">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+</p>
