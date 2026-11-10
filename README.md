@@ -43,15 +43,17 @@ Explore more of my work on my [GitHub repositories](https://github.com/TfMarra5?
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TfMarra5&show_icons=true&theme=github_dark" alt="GitHub Statistics"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=TfMarra5&show_icons=true&theme=github_dark" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TfMarra5&layout=compact&theme=github_dark" alt="Most Used Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TfMarra5&layout=compact&theme=github_dark" alt="Most Used Languages"/>
 </p>
+
 
 ### 🌐 Connect With Me
 
